@@ -1,0 +1,100 @@
+Final Alternative Itinerary using Bard and fact Check by google search
+
+Day 1:
+a. Your flight to the destination has been canceled, and you need to find alternative transportation options.
+-> Bard recommends a fly from DFW to another airport in Europe (London Heathrow Airport) and take a connecting flight to VGO.
+-> Google search leads to https://www.expedia.com/Flights-Search?leg1=from%3ADallas%2C%20TX%20%28DFW-Dallas-Fort%20Worth%20Intl.%29%2Cto%3ALondon%20%28LHR-Heathrow%29%2Cdeparture%3A9%2F30%2F2023TANYT&leg2=from%3ALondon%20%28LHR-Heathrow%29%2Cto%3ADallas%2C%20TX%20%28DFW-Dallas-Fort%20Worth%20Intl.%29%2Cdeparture%3A10%2F1%2F2023TANYT&mode=search&options=carrier%3A%2Ccabinclass%3A%2Cmaxhops%3A1%2Cnopenalty%3AN&passengers=adults%3A1%2Cchildren%3A0%2Cinfantinlap%3AN&sortOrder=INCREASING&sortType=PRICE&trip=roundtrip
+(book flight from DFW to LHR)
+and https://www.expedia.com/Flights-Search?flight-type=on&mode=search&trip=oneway&leg1=from%3ALondon%2C+United+Kingdom+%28LHR-Heathrow%29%2Cto%3ASorvagur%2C+Faroe+Islands+%28FAE-Vagar%29%2Cdeparture%3A9%2F30%2F2023TANYT&options=cabinclass%3Aeconomy&passengers=children%3A0%2Cadults%3A1%2Cseniors%3A0%2Cinfantinlap%3AY&fromDate=9%2F30%2F2023&startDate=2023-09-30
+(book a connecting flight to VGO)
+
+b. You lost your wallet or important travel documents (passport, visa, etc.), and you need to figure out what to do.
+-> Bard Recommends: "File a lost and found report at the airport. You can do this at the Lost and Found office, 
+which is located in the baggage claim area. You will need to provide a detailed description of your lost documents, 
+as well as your contact information."
+Google search leads to https://www.dfwairport.com/explore/plan/lostandfound/ (Lost and Found website of DFW airport)
+
+
+Take a taxi or bus from the airport to Torshavn, the capital of the Faroe Islands.
+Torshavn, Faroe IslandsOpens in a new window
+handluggageonly.co.uk
+
+c. You've arrived at Havgrím Seaside Hotel, but there's an issue with your reservation, and the hotel is fully booked.
+-> Bard recommends other hotels Hotel Brandan and link https://www.tripadvisor.com/Hotel_Review-g190335-d19186622-Reviews-Hotel_Brandan-Torshavn_Streymoy.html
+to book which is cheaper than google result of this hotel (https://www.expedia.com/Torshavn-Hotels-Hotel-Brandan.h38897149.Hotel-Information?chkin=2023-08-14&chkout=2023-08-15&x_pwa=1&rfrr=HSR&pwa_ts=1691525390039&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=5028&destination=Torshavn%2C+Streymoy+Region%2C+Faroe+Islands&destType=MARKET&selected=38897149&latLong=62.011165%2C-6.775114&sort=RECOMMENDED&top_dp=296&top_cur=USD&mdpcid=US.META.HPA.HOTEL-CORESEARCH-desktop.HOTEL&mdpdtl=HTL.38897149.20230814.20230815.DDT.6.CID.19735089272.AUDID.7109594046.RRID.bex_us_desktop&mctc=10&gclid=Cj0KCQjwz8emBhDrARIsANNJjS7WpjdraF6lQdD06Obr6iRp2IXfntKqEfyUCnBwpHmiXR8l8qeTjIEaApvEEALw_wcB&userIntent=&selectedRoomType=216349006&selectedRatePlan=388296582&searchId=f4aa97c1-2a2e-4826-8b30-662904f5ad1b)
+
+Check in to your resort, the Hotel Brandan.
+
+d. You encounter a language barrier while trying to communicate with locals or find your way around the destination.
+-> Bard recommends using Use a translation app. https://gurmentor.com/can-a-translation-app-replace-learning-a-language/
+and dictionary site: https://www.omniglot.com/language/phrases/faroese.php
+-> Google search leads to https://www.faroeislandstranslate.com/#!/ (By visiting the website, and typing the words 
+to be translated into the Faroe Islands Translate search box, the translations are made by a local volunteer. 
+A video will be sent back meaning that people will not only be able to learn the words in Faroese 
+but also to see and a local speaking the language. )
+
+e. You've planned an outdoor activity, but the weather suddenly turns bad, and you need a backup plan.
+-> Bard recommends:
+Visit the National Museum of the Faroe Islands. This museum is located in the heart of Torshavn and it tells the story of the Faroese people from the Viking Age to the present day.
+National Museum of the Faroe IslandsOpens in a new window
+en.wikipedia.org
+National Museum of the Faroe Islands
+Go shopping at the Patursson Crafts Centre. This center is located in a former fish factory and it houses a variety of Faroese handicrafts, including wool sweaters, jewelry, and ceramics.
+Patursson Crafts Centre, TorshavnOpens in a new window
+fancytigercrafts.com
+Patursson Crafts Centre, Torshavn
+Take a cooking class. There are a few cooking schools in Torshavn that offer classes on how to cook traditional Faroese dishes. This is a great way to learn about Faroese culture and to try some delicious food.
+Visit a pub or bar. Torshavn has a vibrant nightlife scene and there are many pubs and bars to choose from. This is a great place to meet locals and to experience Faroese culture.
+
+-> Google search recommends https://www.tripadvisor.com/Attractions-g190335-Activities-zft11295-Torshavn_Streymoy.html
+
+Have dinner at a traditional Faroese restaurant and try some of the local cuisine, such as mutton stew or dried fish.
+Day 2:
+
+Take a boat tour to Vestmanna, a small village on the island of Streymoy.
+Vestmanna, Faroe IslandsOpens in a new window
+en.wikipedia.org
+Hike to the top of the Vestmanna Cliffs, where you can get stunning views of the surrounding islands and the sea.
+Vestmanna Cliffs, Faroe IslandsOpens in a new window
+www.bradtguides.com
+Visit the Tindhólmur bird cliffs, which are home to thousands of puffins.
+Tindhólmur bird cliffs, Faroe IslandsOpens in a new window
+www.mensjournal.com
+Have dinner at a restaurant in Vestmanna and enjoy fresh seafood caught that day.
+Day 3:
+
+Take a ferry to Kalsoy, one of the most remote islands in the Faroe Islands.
+Kalsoy, Faroe IslandsOpens in a new window
+guidetofaroeislands.fo
+Hike to the top of Gjogv, a picturesque village with a narrow fjord.
+Gjogv, Faroe IslandsOpens in a new window
+en.wikipedia.org
+Visit the Múlafossur waterfall, which cascades down a cliffside into the ocean.
+Múlafossur waterfall, Faroe IslandsOpens in a new window
+www.tripadvisor.com
+Have dinner at a restaurant in Kalsoy and enjoy traditional Faroese music and dancing.
+This itinerary includes a mix of activities, from city exploring to hiking and outdoor adventures. It also allows you to visit some of the most popular tourist destinations in the Faroe Islands, such as Torshavn, Vestmanna, and Kalsoy.
+
+Flight back from Faroese Island to DFW
+-> Bard recommends Atlantic Airways: Atlantic Airways is the national airline of the Faroe Islands and offers direct flights from Vágar Airport (VGO) to Dallas/Fort Worth International Airport (DFW). The flight time is about 5 hours and 30 minutes.
+Atlantic Airways planeOpens in a new window
+www.forbes.com
+Atlantic Airways plane
+Scandinavian Airlines: Scandinavian Airlines also offers direct flights from Vágar Airport (VGO) to Dallas/Fort Worth International Airport (DFW). The flight time is about 5 hours and 45 minutes.
+Scandinavian Airlines planeOpens in a new window
+www.businessinsider.com
+Scandinavian Airlines plane
+United Airlines: United Airlines offers connecting flights from Vágar Airport (VGO) to Dallas/Fort Worth International Airport (DFW). The connecting flight is through Newark Liberty International Airport (EWR). The total flight time is about 8 hours and 30 minutes.
+United Airlines planeOpens in a new window
+www.npr.org
+United Airlines plane
+Here are some things to consider when booking your flight:
+
+Price: The cost of flights can vary depending on the airline, the time of year, and the day of the week. It's a good idea to compare prices before booking your flight.
+Airline: Some airlines are known for their better customer service and amenities than others. Do some research to find an airline that you're comfortable with.
+Flight times: The total flight time can vary depending on the itinerary you choose. If you're short on time, you may want to choose a flight with shorter layovers.
+Layovers: If you have a layover, make sure it's long enough to get through security, find your connecting flight, and use the restroom. You may also want to consider booking a flight with a direct connection to avoid the hassle of a layover.
+
+-> Google recommends Frontier Airline https://www.expedia.com/Flights?langid=1033&semcid=US.MULTILOBF.GOOGLE.DL-c-EN.FLIGHT&semdtl=a116861635327.b1139327737990.r1.g1kwd-64909090.i1.d1592443624696.e1c.j19026954.k19041382.f1.n1.l1g.h1p.m1&gclid=Cj0KCQjwz8emBhDrARIsANNJjS4BW8mnAHCrOvXieLkifG1RzeAXABW_4xhVeZnWOrr1TAg207ZifncaAqUrEALw_wcB
+I hope you have a great time on your trip to the Faroe Islands!
+
