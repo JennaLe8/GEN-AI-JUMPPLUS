@@ -20,10 +20,10 @@ Torshavn, Faroe IslandsOpens in a new window
 handluggageonly.co.uk
 
 c. You've arrived at Havgrím Seaside Hotel, but there's an issue with your reservation, and the hotel is fully booked.
--> Bard recommends other hotels Hotel Brandan and link https://www.tripadvisor.com/Hotel_Review-g190335-d19186622-Reviews-Hotel_Brandan-Torshavn_Streymoy.html
-to book which is cheaper than google result of this hotel (https://www.expedia.com/Torshavn-Hotels-Hotel-Brandan.h38897149.Hotel-Information?chkin=2023-08-14&chkout=2023-08-15&x_pwa=1&rfrr=HSR&pwa_ts=1691525390039&referrerUrl=aHR0cHM6Ly93d3cuZXhwZWRpYS5jb20vSG90ZWwtU2VhcmNo&useRewards=false&rm1=a2&regionId=5028&destination=Torshavn%2C+Streymoy+Region%2C+Faroe+Islands&destType=MARKET&selected=38897149&latLong=62.011165%2C-6.775114&sort=RECOMMENDED&top_dp=296&top_cur=USD&mdpcid=US.META.HPA.HOTEL-CORESEARCH-desktop.HOTEL&mdpdtl=HTL.38897149.20230814.20230815.DDT.6.CID.19735089272.AUDID.7109594046.RRID.bex_us_desktop&mctc=10&gclid=Cj0KCQjwz8emBhDrARIsANNJjS7WpjdraF6lQdD06Obr6iRp2IXfntKqEfyUCnBwpHmiXR8l8qeTjIEaApvEEALw_wcB&userIntent=&selectedRoomType=216349006&selectedRatePlan=388296582&searchId=f4aa97c1-2a2e-4826-8b30-662904f5ad1b)
+-> Bard recommends other hotels Hotel Hafnia and link https://www.tripadvisor.dk/Hotel_Review-g190335-d278167-Reviews-Hotel_Hafnia-Torshavn_Streymoy.html
+to book which is cheaper than google result of this hotel (https://www.kayak.com/Torshavn-Hotels-Hotel-Hafnia.179900.ksp)
 
-Check in to your resort, the Hotel Brandan.
+Check in to your resort, the Hotel Hafnia.
 
 d. You encounter a language barrier while trying to communicate with locals or find your way around the destination.
 -> Bard recommends using Use a translation app. https://gurmentor.com/can-a-translation-app-replace-learning-a-language/
